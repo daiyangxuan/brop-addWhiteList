@@ -53,7 +53,7 @@ public class AddDataPerson {
                 System.out.println("白名单人员添加成功");
             }
         } else {
-            String expression = "输入参数错误，使用方法\n" +
+            String expression = "输入参数错误，使用方法 \n" +
                     "加入白名单用户: java -Dmiddleware=[middleware] -DdataUnitAddress=[dataUnitAddress] -Dhsm=[hsm] -DhsmUserId=[hsmUserId] -DaccountId=[accountId] -jar brop-addWhiteList-1.0.0.jar\n" +
                     "  middleware                BROP服务地址, 如: http://127.0.0.1:9999\n" +
                     "  hsm                       加密机地址, 如: http://127.0.0.1:8090/hsmServer\n" +
