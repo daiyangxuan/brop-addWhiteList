@@ -4,3 +4,4 @@ bropdemo.iml
 target/
 lib
 bropaddWhiteList.iml
+dependency-reduced-pom.xml
