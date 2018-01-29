@@ -5,3 +5,5 @@ target/
 lib
 bropaddWhiteList.iml
 dependency-reduced-pom.xml
+src/test/java/
+brop-addWhiteList.iml

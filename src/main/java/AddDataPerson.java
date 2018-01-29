@@ -58,7 +58,7 @@ public class AddDataPerson {
                     "  middleware                BROP服务地址, 如: http://127.0.0.1:9999\n" +
                     "  hsm                       加密机地址, 如: http://127.0.0.1:8090/hsmServer\n" +
                     "  dataUnitAddress           存证合约地址\n" +
-                    "  hsmUserId                 运营身份用户在加密机的id\n" +
+                    "  hsmUserId                 加入白名单用户在加密机的id\n" +
                     "  accountId                 加入白名单人员id";
             System.out.println(expression);
         }
